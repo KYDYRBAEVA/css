@@ -29,6 +29,10 @@ header {
      margin : 10px;
      text-transform: capitalize
  }
+img {
+      height: 30%;
+      width: 30%;
+}
 
  section {
     background-color: lightgreen;
@@ -56,4 +60,12 @@ header {
      { background-color: gainsboro;
      color: royalblue; }
  }
-
+.left img{
+      height : auto;
+      max-width: 100%;
+      width: auto;
+}
+.right img {
+      height: 190px;
+      width: 300px;
+}
