@@ -106,3 +106,7 @@ tr:hover{
   opacity:1;
   background-color: white;
 }
+.left img {
+      width: 750px;
+      height: 400px;
+}
