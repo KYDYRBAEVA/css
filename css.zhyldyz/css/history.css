@@ -86,5 +86,9 @@ main {
 img {src="images/1.jpg";
  width="400";
  height="300"; }
+.left img {
+      height: 350px;
+      width: 590px;
+}
 
 
